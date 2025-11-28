@@ -11,7 +11,7 @@ Pour faire une présentation sur le test en production, choisissez un des sujets
 - Présentation:
 
 [concept] canary testing
-- Nom: Djuidje Christelle Phalonne lien
+- Nom: Djuidje Christelle Phalonne
 - Présentation: https://docs.google.com/presentation/d/1iSgFOjfdLuk0UMs1O_adZiTEPksDg2oS/edit?usp=sharing&ouid=107831554489071634803&rtpof=true&sd=true 
 
 
